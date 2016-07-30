@@ -1,5 +1,6 @@
 # EECS442 Causal Learning from Data Final Project
 Project Title: Causal Inference to Ascertain Causes of Metastasis in Melanoma
+
 Spring 2015
 Professor Andy Podgurski
 
@@ -18,3 +19,4 @@ buildModels starts with the output from the previous script and generates the ca
 
 CETest was a first test to determine causal effects.
 
+The write-up for this analysis is available upon request.
